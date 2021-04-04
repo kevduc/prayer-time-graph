@@ -1,5 +1,7 @@
 # prayer-time-graph
 
-Shows the prayer times difference between London and Cairo.
+Shows the prayer times difference between cities.
 
-See 2020 here: https://kevduc.github.io/prayer-time-graph/
+##Example
+
+See London and Cairo for 2020 here: https://kevduc.github.io/prayer-time-graph/
