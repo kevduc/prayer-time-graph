@@ -1,6 +1,6 @@
 # prayer-time-graph
 
-Shows the prayer times difference between cities.
+Plots the prayer times throughout the year for different cities.
 
 ## Example
 
