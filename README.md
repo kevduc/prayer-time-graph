@@ -1,6 +1,6 @@
 # prayer-time-graph
 
-Plots the prayer times (GMT) throughout the year for different cities.
+📉 Plots the prayer times (GMT) throughout the year for different cities.
 
 ## Example
 
